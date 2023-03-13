@@ -42,6 +42,9 @@ We are convinced that our activities are important in complementing the formal e
 - [Logic on RoboCamp 2021](https://2021.robotickytabor.cz/logic)
 - [library](https://github.com/RoboticsBrno/Logic_library)
 
+<details >
+  <summary>More projects</summary>
+
 ### Robotka - Robot building kit for RoboCamp
 - [website with manuals](https://robotka.robotickytabor.cz/)
 - [library](https://github.com/RoboticsBrno/RB3204-RBCX-Robotka-library/tree/master)
@@ -51,10 +54,6 @@ We are convinced that our activities are important in complementing the formal e
 - [website with manuals](https://roboruka.robotickytabor.cz/)
 - [library](https://github.com/RoboticsBrno/RB3201-RBControl-Roboruka-library)
 - [code examples](https://github.com/RoboticsBrno/roboruka-examples)
-
-
-<details >
-  <summary>More projects</summary>
 
 ### Semafor - Traffic light gadget for outdoor games
 - [PCB and FW](https://github.com/RoboticsBrno/semafor)
