@@ -28,6 +28,11 @@ Each year we organize a [summer camp](https://robotickytabor.cz/) with engaging 
 During the school year students can attend hobby groups covering modeling, electronics, mechanical engineering and programming.
 We are convinced that our activities are important in complementing the formal education system and expanding the possibilities of learning.
 
+<div align="center">
+<a href="https://helceletka.cz/robotarna/"><button>Helceltka</button></a>
+<a href="https://robotickytabor.cz/"><button>RoboCamp</button></a>
+</div>
+
 ## Projects
 
 
