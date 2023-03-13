@@ -3,7 +3,7 @@
 Robotárna is a unique mix of a tech lab and a place of technical education.
 We deeply care about exposing our students to engineering principles and building mental frameworks of technical thinking and communication.
 
-[![](../img/0001.jpg)](https://helceletka.cz/robotarna/)
+[![](https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/0001.jpg)](https://helceletka.cz/robotarna/)
 
 We believe that great results can only be achieved by working at multiple levels of abstraction.
 Our projects contain custom mechanical parts, electronics, firmware, software and ideas, yet the designs are approachable by the students.
@@ -16,12 +16,12 @@ We are convinced that our activities are important in complementing the formal e
 
 <div>
 	<a href="https://robotickytabor.cz/">
-		<img src="../img/0091.jpg" width="33%" />
+		<img src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/0091.jpg" width="33%" />
 	</a>
 	<a href="https://robotka.robotickytabor.cz/">
-	<img src="../img/0042.jpg" width="33%" />
+	<img src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/0042.jpg" width="33%" />
 	</a>
 	<a href="https://roboruka.robotickytabor.cz/">
-		<img src="../img/roboruka.jpg" width="32%" />
+		<img src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/roboruka.jpg" width="32%" />
 	</a>
 </div>
