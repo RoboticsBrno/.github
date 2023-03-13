@@ -29,12 +29,12 @@ During the school year students can attend hobby groups covering modeling, elect
 We are convinced that our activities are important in complementing the formal education system and expanding the possibilities of learning.
 
 <div align="center">
-<a href="https://helceletka.cz/robotarna/"><button>Helceltka</button></a>
-<a href="https://robotickytabor.cz/"><button>RoboCamp</button></a>
-<a href="https://www.instagram.com/_robotarna_/"><button>Instagram</button></a>
-<a href="https://www.facebook.com/robotarna"><button>Facebook</button></a>
-<a href="https://www.youtube.com/@robotikabrno-robotarnaasps2392"><button>YouTube</button></a>
-<a href="https://twitter.com/RobotikaBrno"><button>Twitter</button></a>
+<a href="https://helceletka.cz/robotarna/"><button>Helceltka&nbsp;&nbsp;&nbsp;</button></a>
+<a href="https://robotickytabor.cz/"><button>RoboCamp&nbsp;&nbsp;&nbsp;</button></a>
+<a href="https://www.instagram.com/_robotarna_/"><button>Instagram&nbsp;&nbsp;&nbsp;</button></a>
+<a href="https://www.facebook.com/robotarna"><button>Facebook&nbsp;&nbsp;&nbsp;</button></a>
+<a href="https://www.youtube.com/@robotikabrno-robotarnaasps2392"><button>YouTube&nbsp;&nbsp;&nbsp;</button></a>
+<a href="https://twitter.com/RobotikaBrno"><button>Twitter&nbsp;&nbsp;</button></a>
 
 </div>
 
