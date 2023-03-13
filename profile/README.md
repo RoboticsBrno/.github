@@ -1,4 +1,5 @@
-# RoboticsBrno (Robotárna) <img align="right" src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/ozubeni-okraje.png" width="100" />
+# RoboticsBrno (Robotárna) <a href="https://helceletka.cz/robotarna/"><img align="right" src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/ozubeni-okraje.png" width="100" /></a>
+
 
 
 
