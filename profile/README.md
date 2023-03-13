@@ -31,6 +31,11 @@ We are convinced that our activities are important in complementing the formal e
 <div align="center">
 <a href="https://helceletka.cz/robotarna/"><button>Helceltka</button></a>
 <a href="https://robotickytabor.cz/"><button>RoboCamp</button></a>
+<a href="https://www.instagram.com/_robotarna_/"><button>Instagram</button></a>
+<a href="https://www.facebook.com/robotarna"><button>Facebook</button></a>
+<a href="https://www.youtube.com/@robotikabrno-robotarnaasps2392"><button>YouTube</button></a>
+<a href="https://twitter.com/RobotikaBrno"><button>Twitter</button></a>
+
 </div>
 
 ## Projects
