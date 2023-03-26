@@ -47,7 +47,7 @@ We are convinced that our activities are important in complementing the formal e
 - [Coprocessor firmware](https://github.com/RoboticsBrno/RB3204-RBCX-coproc-comm)
 - [ESP32 library](https://github.com/RoboticsBrno/RB3204-RBCX-library)
 
-### Logic - universal programmable toy
+### Logic - Universal programmable toy
 - [website with manuals](https://logic.robotickytabor.cz/)
 - [PCB and schematics](https://github.com/RoboticsBrno/RB3205-Logic)
 - [Logic on RoboCamp 2021](https://2021.robotickytabor.cz/logic)
