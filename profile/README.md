@@ -1,7 +1,7 @@
 # RoboticsBrno (Robotárna) <a href="https://helceletka.cz/robotarna/"><img align="right" src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/ozubeni-okraje.png" width="100" /></a>
 
 <div align="center">
-<a href = "https://github.com/RoboticsBrno/.github/blob/main/profile/README.md"><img src="https://img.shields.io/badge/lang-en-red.svg"></a>
+<a href = "https://github.com/RoboticsBrno/.github/blob/main/profile/README.cs.md"><img src="https://img.shields.io/badge/lang-cs-green.svg"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboticsBrno&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 </div>
 
