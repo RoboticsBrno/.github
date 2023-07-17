@@ -39,7 +39,7 @@ We are convinced that our activities are important in complementing the formal e
 
 </div>
 
-## Projects
+## Projects | [Project naming](../PROJECT_NAMING.md)
 
 
 ### RBCX - Universal board for robotics
