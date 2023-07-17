@@ -39,7 +39,7 @@ Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejn�
 
 </div>
 
-## Projekty
+## Projekty | [Názvy projektů](../PROJECT_NAMING.md)
 
 
 ### RBCX - Univerzální elektronika pro roboty
