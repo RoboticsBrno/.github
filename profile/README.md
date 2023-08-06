@@ -80,7 +80,7 @@ We are convinced that our activities are important in complementing the formal e
 - [manual](https://github.com/RoboticsBrno/ArduinoLearningKitStarter/wiki)
 
 ### ELKS - ESP learning kit starter
-- [PCB and schematics]([https://github.com/RoboticsBrno/ArduinoLearningKitStarter](https://github.com/RoboticsBrno/RB3206-ELKS))
+- [PCB and schematics](https://github.com/RoboticsBrno/RB3206-ELKS)
 - [website with manuals](https://elks.robotikabrno.cz)
 - [manual for RoboCamp 2023](https://2023.robotickytabor.cz/elks/)
 
