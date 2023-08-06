@@ -44,6 +44,7 @@ We are convinced that our activities are important in complementing the formal e
 
 ### RBCX - Universal board for robotics
 - [PCB and schematics](https://github.com/RoboticsBrno/RB3204-RBCX)
+- [PCB and schematics for viewing ](https://cadlab.io/project/22567/master/files/fw/rbcx-coprocessor/src/CdcUartTunnel.cpp/nojs)
 - [Coprocessor firmware](https://github.com/RoboticsBrno/RB3204-RBCX-coproc-comm)
 - [ESP32 library](https://github.com/RoboticsBrno/RB3204-RBCX-library)
 
@@ -77,6 +78,11 @@ We are convinced that our activities are important in complementing the formal e
 - [PCB and schematics](https://github.com/RoboticsBrno/ArduinoLearningKitStarter)
 - [library](https://github.com/RoboticsBrno/ArduinoLearningKitStarter-library)
 - [manual](https://github.com/RoboticsBrno/ArduinoLearningKitStarter/wiki)
+
+### ELKS - ESP learning kit starter
+- [PCB and schematics]([https://github.com/RoboticsBrno/ArduinoLearningKitStarter](https://github.com/RoboticsBrno/RB3206-ELKS))
+- [website with manuals](https://elks.robotikabrno.cz)
+- [manual for RoboCamp 2023](https://2023.robotickytabor.cz/elks/)
 
 ### RBGridUI - Grid-based UI for ESP32
 - [UI designer web app](https://roboticsbrno.github.io/Esp32-RBGridUI-Designer)
