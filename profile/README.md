@@ -39,8 +39,9 @@ We are convinced that our activities are important in complementing the formal e
 
 </div>
 
-## Projects | [Project naming](../PROJECT_NAMING.md)
+## Projects
 
+[Project naming convention](https://github.com/RoboticsBrno/.github/blob/main/PROJECT_NAMING.md)
 
 ### RBCX - Universal board for robotics
 - [PCB and schematics](https://github.com/RoboticsBrno/RB3204-RBCX)
