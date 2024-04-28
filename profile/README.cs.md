@@ -1,3 +1,4 @@
+<!--- title --->
 # Robotárna <a href="https://helceletka.cz/robotarna/"><img align="right" src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/ozubeni-okraje.png" width="100" /></a>
 
 <div align="center">
@@ -5,9 +6,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboticsBrno&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 </div>
 
+<!--- readme --->
 Robotárna je unikátním spojením technické dílny a volnočasového vzdělávacího centra.
 Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům, což umožňuje efektivní tvorbu myšlenkových struktur a pomáhá s jejich rozvojem jak v oblasti techniky, tak v oblasti komunikace.
 
+<!--- images --->
 <div>
 	<a href="https://robotickytabor.cz/" target="_blank">
 		<img src="https://raw.githubusercontent.com/RoboticsBrno/.github/main/img/0091.jpg" width="32%" />
@@ -20,6 +23,7 @@ Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům
 	</a>
 </div>
 
+<!--- readme --->
 Věříme, že dosažení vysokých cílů je možné skrze práci na mnoha úrovních abstrakce. 
 V rámci našich projektů si vyvíjíme vlastní mechanické součásti, elektorniku, firmware a software. I přesto jsou projekty koncipovány tak, aby byly přístupné i pro děti a začátečníky.
 Naší misí je **vzbuzování zájmu mládeže o pochopení techniky tím, že je vystavujeme pokročilým systémům, které jsou však stále v jejich dosahu**.
@@ -29,6 +33,7 @@ Každý rok organizujeme [Robotický tábor](https://robotickytabor.cz/) s mnoha
 Během školního roku naši žáci navštěvují volnočasové kroužky zaměřující se na stavění modelů, mechaniku, elektroniku a programování.
 Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejného vzdělávacího systému v oblasti techniky a poskytnutí mládeži více možností rozvoje.
 
+<!--- contacts --->
 <div align="center">
 <a href="https://helceletka.cz/robotarna/"><button>Helceletka&nbsp;&nbsp;&nbsp;</button></a>
 <a href="https://robotickytabor.cz/"><button>RoboCamp&nbsp;&nbsp;&nbsp;</button></a>
@@ -39,8 +44,9 @@ Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejn�
 
 </div>
 
-## Projekty | [Názvy projektů](../PROJECT_NAMING.md)
+<!--- projects --->
 
+## Projekty | [Názvy projektů](../PROJECT_NAMING.md)
 
 ### RBCX - Univerzální elektronika pro roboty
 - [PCB and schematics](https://github.com/RoboticsBrno/RB3204-RBCX)
