@@ -6,7 +6,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboticsBrno&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 </div>
 
-<!--- readme --->
+<!--- readme_1 --->
 Robotárna je unikátním spojením technické dílny a volnočasového vzdělávacího centra.
 Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům, což umožňuje efektivní tvorbu myšlenkových struktur a pomáhá s jejich rozvojem jak v oblasti techniky, tak v oblasti komunikace.
 
@@ -23,7 +23,7 @@ Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům
 	</a>
 </div>
 
-<!--- readme --->
+<!--- readme_2 --->
 Věříme, že dosažení vysokých cílů je možné skrze práci na mnoha úrovních abstrakce. 
 V rámci našich projektů si vyvíjíme vlastní mechanické součásti, elektorniku, firmware a software. I přesto jsou projekty koncipovány tak, aby byly přístupné i pro děti a začátečníky.
 Naší misí je **vzbuzování zájmu mládeže o pochopení techniky tím, že je vystavujeme pokročilým systémům, které jsou však stále v jejich dosahu**.

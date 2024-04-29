@@ -6,7 +6,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboticsBrno&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
 </div>
 
-<!--- readme --->
+<!--- readme_1 --->
 Robotárna is a unique mix of a tech lab and a place of technical education.
 We deeply care about exposing our students to engineering principles and building mental frameworks of technical thinking and communication.
 
@@ -23,7 +23,7 @@ We deeply care about exposing our students to engineering principles and buildin
 	</a>
 </div>
 
-<!--- readme --->
+<!--- readme_2 --->
 We believe that great results can only be achieved by working at multiple levels of abstraction.
 Our projects contain custom mechanical parts, electronics, firmware, software and ideas, yet the designs are approachable by the students.
 The mission is **making kids hungry for more understanding by exposing them to capable systems they can grasp**.
